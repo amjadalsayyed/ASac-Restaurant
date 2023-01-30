@@ -1,3 +1,3 @@
 # ASac-Restaurant
 
-![restaurant](/assets/images/restaurant1.jpg)
+![restaurant](/assets/images/restaurant2.jpg)
